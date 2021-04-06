@@ -1,6 +1,6 @@
 let age = 2021 - 1973
 let ww2 = 1945 - 1939
-let tesla = 76 * 689,58
+let tesla = 76 * 689.58
 let secondOfDay = 60 * 60 * 24
 let hungarians = 9701524 / 7857030035
 let bigger = 9597000/ 78866
@@ -8,7 +8,7 @@ let participants = 654 % 7
 
 document.getElementById("age").innerHTML = age + " éves vagyok."
 document.getElementById("ww2").innerHTML = ww2 + " évig tartott a 2. világháború."
-document.getElementById("tesla").innerHTML = tesla + "$-ba kerül 76 TESLA részvény 2021. 02. 23.-án."
+document.getElementById("tesla").innerHTML = tesla + "$-ba kerül 76 TESLA részvény 2021. 04.05.-én."
 document.getElementById("secondOfDay").innerHTML = secondOfDay + " másodperc van egy nap."
 document.getElementById("hungarians").innerHTML = hungarians + "% a magyar lakosság aránya a Föld népességéhez képest 2021. 02. 23.-án."
 document.getElementById("bigger").innerHTML = bigger + "-szer nagyobb Kína területe Csehország területéhez képest."
